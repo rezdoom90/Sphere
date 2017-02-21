@@ -8,7 +8,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * Created by Антон on 21.02.2017.
+ * Created by Антон on 15.02.2017.
  */
 public class StringDataParser {
     public static ArrayList<Double> getCoordinates (ArrayList<String> stringData) {
