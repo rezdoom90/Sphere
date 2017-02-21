@@ -9,6 +9,18 @@ public class Sphere {
 	private static Point centerP = new Point();
     private static Point surfaceP = new Point();
 
+    public static void setCenterP(Point centerP) {
+        Sphere.centerP = centerP;
+    }
+
+    public static void setSurfaceP(Point surfaceP) {
+        Sphere.surfaceP = surfaceP;
+    }
+
+    public static double getSphereSurfaceArea () {
+        return 0.0; //4 * Math.PI * Math.pow(, 2); //
+    }
+
 
     private static Sphere ourInstance = new Sphere();
 
