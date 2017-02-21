@@ -24,12 +24,4 @@ public class StringDataParser {
 
         return coordinates;
     }
-
-    public static void main (String[] args) throws IOException {
-        ArrayList<Double> outp = getCoordinates(InputFileDataReader.getFileData());
-
-        for (Double d : outp) {
-            System.out.println(d);
-        }
-    }
 }
