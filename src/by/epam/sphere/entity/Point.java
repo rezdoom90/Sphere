@@ -38,9 +38,4 @@ public class Point {
     public boolean equals(Point point) {
         return this.getX() == point.getX() && this.getY() == point.getY() && this.getZ() == point.getZ();
     }
-
-    @Override
-    public String toString() {
-        return x + " " + y + " " + z;
-    }
 }
