@@ -9,7 +9,7 @@ import java.util.ArrayList;
 public class InputFileDataReader {
 	public static ArrayList<String> getFileData (String path) throws IOException {
 		ArrayList<String> stringData = new ArrayList<>();
-        final String DATA_PATH = "src/by/epam/sphere/data/Input.txt"; //coordinates input file path
+        	final String DATA_PATH = "src/by/epam/sphere/data/Input.txt"; //coordinates input file path
 
 		if (path.isEmpty()) {
 			Files.lines(Paths.get(DATA_PATH), StandardCharsets.UTF_8).forEach(stringData::add);
