@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e274584-8336-4ea8-8680-95c98632b0ca" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/log4j_api_2_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Kuhach/by/epam/sphere/action/InputFileDataReader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Kuhach/by/epam/sphere/entity/Point.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Kuhach/by/epam/sphere/entity/Sphere.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Kuhach/by/epam/sphere/parser/StringDataParser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Kuhach/by/epam/sphere/test/SphereTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/by/epam/sphere/test/SphereTest.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Kuhach.iml" afterPath="$PROJECT_DIR$/Kuhach.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/by/epam/sphere/action/InputFileDataReader.java" afterPath="$PROJECT_DIR$/src/by/epam/sphere/action/InputFileDataReader.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/by/epam/sphere/entity/Point.java" afterPath="$PROJECT_DIR$/src/by/epam/sphere/entity/Point.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/by/epam/sphere/entity/Sphere.java" afterPath="$PROJECT_DIR$/src/by/epam/sphere/entity/Sphere.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/by/epam/sphere/parser/StringDataParser.java" afterPath="$PROJECT_DIR$/src/by/epam/sphere/parser/StringDataParser.java" />
-    </list>
+    <list default="true" id="6e274584-8336-4ea8-8680-95c98632b0ca" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -948,7 +933,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
