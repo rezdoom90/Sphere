@@ -88,6 +88,6 @@ public class Sphere {
 
     @Override
     public String toString() {
-        return centerP.toString() + ", " + surfaceP.toString();
+        return "Sphere has surface area of " + this.getSurfaceArea() + ", value of " + this.getValue();
     }
 }
