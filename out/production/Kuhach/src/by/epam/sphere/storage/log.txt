@@ -1,0 +1,20 @@
+2017-03-01 08:22:22.794 [main] INFO  by.epam.sphere.action.InputFileDataReader - Input string is empty. Using default.
+2017-03-01 08:22:22.837 [main] INFO  by.epam.sphere.parser.StringDataParser - File data parsing done. Coordinates received.
+2017-03-01 08:22:22.837 [main] INFO  by.epam.sphere.entity.Sphere - Received sphere radius of 33.15056560603454
+2017-03-01 08:22:22.837 [main] INFO  by.epam.sphere.action.InputFileDataReader - Input string is empty. Using default.
+2017-03-01 08:22:22.837 [main] INFO  by.epam.sphere.parser.StringDataParser - File data parsing done. Coordinates received.
+2017-03-01 08:22:22.837 [main] INFO  by.epam.sphere.entity.Sphere - Received sphere radius of 33.15056560603454
+2017-03-01 08:22:22.838 [main] INFO  by.epam.sphere.action.InputFileDataReader - Input string is empty. Using default.
+2017-03-01 08:22:22.838 [main] INFO  by.epam.sphere.parser.StringDataParser - File data parsing done. Coordinates received.
+2017-03-01 08:22:22.838 [main] INFO  by.epam.sphere.entity.Sphere - Received sphere radius of 33.15056560603454
+2017-03-01 08:22:22.838 [main] INFO  by.epam.sphere.action.InputFileDataReader - Input string is empty. Using default.
+2017-03-01 08:22:22.839 [main] INFO  by.epam.sphere.parser.StringDataParser - File data parsing done. Coordinates received.
+2017-03-01 08:22:22.839 [main] INFO  by.epam.sphere.action.InputFileDataReader - Input string is empty. Using default.
+2017-03-01 08:22:22.840 [main] INFO  by.epam.sphere.parser.StringDataParser - File data parsing done. Coordinates received.
+2017-03-01 08:22:22.840 [main] INFO  by.epam.sphere.entity.Sphere - Received sphere radius of 33.15056560603454
+2017-03-01 08:22:22.842 [main] INFO  by.epam.sphere.action.InputFileDataReader - Input string is empty. Using default.
+2017-03-01 08:22:22.842 [main] INFO  by.epam.sphere.parser.StringDataParser - File data parsing done. Coordinates received.
+2017-03-01 08:22:22.842 [main] INFO  by.epam.sphere.entity.Sphere - Received sphere radius of 33.15056560603454
+2017-03-01 08:22:22.843 [main] INFO  by.epam.sphere.action.InputFileDataReader - Input string is empty. Using default.
+2017-03-01 08:22:22.843 [main] INFO  by.epam.sphere.parser.StringDataParser - File data parsing done. Coordinates received.
+2017-03-01 08:22:22.843 [main] INFO  by.epam.sphere.entity.Sphere - Received sphere radius of 33.15056560603454
