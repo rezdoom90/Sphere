@@ -4,7 +4,9 @@ import by.epam.sphere.entity.Sphere;
 
 public class SphereLogic {
     public static boolean isASphere (Sphere sphere) {
-        return !sphere.getCenterP().equals(sphere.getSurfaceP());
+        return !(sphere.getSurfaceP().getX() == sphere.getCenterP().getX()
+                && sphere.getSurfaceP().getY() == sphere.getCenterP().getY()
+                && sphere.getSurfaceP().getZ() == sphere.getCenterP().getZ());
     }
 
     public static boolean crossesXY (Sphere sphere) {

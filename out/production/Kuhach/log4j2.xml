@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<configuration monitorInterval="3">
-    <appenders>
-        <File name="FILE" fileName="logs/Calc/error.log">
-            <PatternLayout pattern="%d{ISO8601} [%-5p] (%F:%L) - %m%n"/>
-        </File>
-        <Console name="STDOUT" target="SYSTEM_OUT">
-            <PatternLayout pattern="%d{ABSOLUTE} [%-5p] (%F:%L) - %m%n"/>
+<Configuration status="warn">
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
         </Console>
-    </appenders>
-    <loggers>
-        <root level="warn">
-            <appender-ref ref="STDOUT"/>
-            <appender-ref ref="FILE"/>
-        </root>
-    </loggers>
-
-</configuration>
+        <File name="File" fileName="src/by/epam/sphere/storage/log.txt" immediateFlush="false" append="false">
+            <PatternLayout pattern="%d{yyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </File>
+    </Appenders>
+    <Loggers>
+        <Root level="all">
+            <AppenderRef ref="Console" level="all"/>
+            <AppenderRef ref="File" level="all"/>
+        </Root>
+    </Loggers>
+</Configuration>

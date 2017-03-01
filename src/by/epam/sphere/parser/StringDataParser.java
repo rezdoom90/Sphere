@@ -1,16 +1,18 @@
 package by.epam.sphere.parser;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 import java.util.ArrayList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-<<<<<<< HEAD
-=======
-/**
- * Created by Антон on 15.02.2017.
- */
->>>>>>> ed9f13f71a8419cf9f0eed10576e4ba38d590c6b
+import static org.apache.logging.log4j.Level.INFO;
+
+
 public class StringDataParser {
+    static Logger logger = LogManager.getLogger();
+
     public static ArrayList<Double> getCoordinates (ArrayList<String> stringData) {
         ArrayList<Double> coordinates = new ArrayList<>();
 
@@ -21,6 +23,8 @@ public class StringDataParser {
                 coordinates.add(Double.parseDouble(m.group()));
             }
         }
+
+        logger.log(INFO, "File data parsing done. Coordinates received.");
 
         return coordinates;
     }

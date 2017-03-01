@@ -34,8 +34,4 @@ public class Point {
     public double getZ() {
         return z;
     }
-
-    public boolean equals(Point point) {
-        return this.getX() == point.getX() && this.getY() == point.getY() && this.getZ() == point.getZ();
-    }
 }

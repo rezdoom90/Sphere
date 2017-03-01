@@ -1,7 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e274584-8336-4ea8-8680-95c98632b0ca" name="Default" comment="" />
+    <list default="true" id="6e274584-8336-4ea8-8680-95c98632b0ca" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/log4j_api_2_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/log4j_core_2_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/library/hamcrest-core-1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/library/junit-4.12.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/library/log4j-api-2.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/library/log4j-core-2.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Kuhach/.idea/libraries/hamcrest_core_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Kuhach/.idea/libraries/junit_4_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Kuhach/.idea/libraries/log4j_api_2_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Kuhach/.idea/libraries/log4j_core_2_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Kuhach/library/hamcrest-core-1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Kuhach/library/junit-4.12.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Kuhach/library/log4j-api-2.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Kuhach/library/log4j-core-2.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Kuhach/log4j2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Kuhach/src/log4j2.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Kuhach/by/epam/sphere/entity/Point.class" afterPath="$PROJECT_DIR$/out/production/Kuhach/by/epam/sphere/entity/Point.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Kuhach/by/epam/sphere/entity/Sphere.class" afterPath="$PROJECT_DIR$/out/production/Kuhach/by/epam/sphere/entity/Sphere.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Kuhach/by/epam/sphere/exception/WrongDataPathException.class" afterPath="$PROJECT_DIR$/out/production/Kuhach/by/epam/sphere/exception/WrongDataPathException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Kuhach/by/epam/sphere/logic/SphereLogic.class" afterPath="$PROJECT_DIR$/out/production/Kuhach/by/epam/sphere/logic/SphereLogic.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Kuhach/by/epam/sphere/parser/StringDataParser.class" afterPath="$PROJECT_DIR$/out/production/Kuhach/by/epam/sphere/parser/StringDataParser.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Kuhach/by/epam/sphere/test/InputFileReaderTest.class" afterPath="$PROJECT_DIR$/out/production/Kuhach/by/epam/sphere/test/InputFileReaderTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Kuhach/by/epam/sphere/test/SphereTest.class" afterPath="$PROJECT_DIR$/out/production/Kuhach/by/epam/sphere/test/SphereTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Kuhach.iml" afterPath="$PROJECT_DIR$/Kuhach.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Kuhach/.classpath" afterPath="$PROJECT_DIR$/out/production/Kuhach/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Kuhach/.idea/misc.xml" afterPath="$PROJECT_DIR$/out/production/Kuhach/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Kuhach/.idea/workspace.xml" afterPath="$PROJECT_DIR$/out/production/Kuhach/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Kuhach/Kuhach.iml" afterPath="$PROJECT_DIR$/out/production/Kuhach/Kuhach.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/by/epam/sphere/action/InputFileDataReader.java" afterPath="$PROJECT_DIR$/src/by/epam/sphere/action/InputFileDataReader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/by/epam/sphere/entity/Point.java" afterPath="$PROJECT_DIR$/src/by/epam/sphere/entity/Point.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/by/epam/sphere/entity/Sphere.java" afterPath="$PROJECT_DIR$/src/by/epam/sphere/entity/Sphere.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/by/epam/sphere/exception/WrongDataPathException.java" afterPath="$PROJECT_DIR$/src/by/epam/sphere/exception/WrongDataPathException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/by/epam/sphere/logic/SphereLogic.java" afterPath="$PROJECT_DIR$/src/by/epam/sphere/logic/SphereLogic.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/by/epam/sphere/parser/StringDataParser.java" afterPath="$PROJECT_DIR$/src/by/epam/sphere/parser/StringDataParser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/by/epam/sphere/test/InputFileReaderTest.java" afterPath="$PROJECT_DIR$/src/by/epam/sphere/test/InputFileReaderTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/by/epam/sphere/test/SphereTest.java" afterPath="$PROJECT_DIR$/src/by/epam/sphere/test/SphereTest.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,129 +59,224 @@
     <favorites_list name="Kuhach" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Point.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/entity/Point.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding>
-                <element signature="e#268#269#0" expanded="false" />
-                <element signature="e#294#295#0" expanded="false" />
-                <element signature="e#328#329#0" expanded="false" />
-                <element signature="e#354#355#0" expanded="false" />
-                <element signature="e#388#389#0" expanded="false" />
-                <element signature="e#414#415#0" expanded="false" />
-                <element signature="e#442#443#0" expanded="false" />
-                <element signature="e#466#467#0" expanded="false" />
-                <element signature="e#494#495#0" expanded="false" />
-                <element signature="e#518#519#0" expanded="false" />
-                <element signature="e#546#547#0" expanded="false" />
-                <element signature="e#570#571#0" expanded="false" />
-                <element signature="e#770#771#0" expanded="false" />
-                <element signature="e#814#815#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sphere.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/entity/Sphere.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="49" column="9" lean-forward="false" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
-              <folding>
-                <element signature="e#221#222#0" expanded="false" />
-                <element signature="e#259#260#0" expanded="false" />
-                <element signature="e#306#307#0" expanded="false" />
-                <element signature="e#346#347#0" expanded="false" />
-                <element signature="e#379#380#0" expanded="false" />
-                <element signature="e#409#410#0" expanded="false" />
-                <element signature="e#443#444#0" expanded="false" />
-                <element signature="e#474#475#0" expanded="false" />
-                <element signature="e#840#841#0" expanded="false" />
-                <element signature="e#901#902#0" expanded="false" />
-                <element signature="e#934#935#0" expanded="false" />
-                <element signature="e#1001#1002#0" expanded="false" />
-                <element signature="e#2637#2638#0" expanded="false" />
-                <element signature="e#2671#2672#0" expanded="false" />
-                <element signature="e#2717#2718#0" expanded="false" />
-                <element signature="e#2787#2788#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SphereLogic.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/logic/SphereLogic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InputFileDataReader.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/action/InputFileDataReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="68" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="68" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SphereTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/test/SphereTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InputFileReaderTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/test/InputFileReaderTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="22" lean-forward="false" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="misc.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WrongDataPathException.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/exception/WrongDataPathException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="44" lean-forward="false" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-              <folding>
-                <element signature="e#181#182#0" expanded="true" />
-                <element signature="e#235#236#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="SphereSurfaceArea.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/parameter/SphereSurfaceArea.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="289">
+                  <caret line="19" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="YZDissectionValueRatioTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/test/YZDissectionValueRatioTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="312">
+                  <caret line="21" column="27" lean-forward="false" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="XYDissectionValueRatioTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/test/XYDissectionValueRatioTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="221">
+                  <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="SphereLogic.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/logic/SphereLogic.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="51">
+                  <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="OperationObserver.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/observer/OperationObserver.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="85">
+                  <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="WrongDataPathException.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/exception/WrongDataPathException.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="85">
+                  <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="SphereTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/test/SphereTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="34">
+                  <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="XZDissectionValueRatioTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/test/XZDissectionValueRatioTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="357">
+                  <caret line="21" column="23" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="SphereValueTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/test/SphereValueTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="425">
+                  <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="StringDataParserTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/test/StringDataParserTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="289">
+                  <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="SphereSurfaceAreaTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/test/SphereSurfaceAreaTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="289">
+                  <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="StringDataParser.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/parser/StringDataParser.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="442">
+                  <caret line="26" column="50" lean-forward="false" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="InputFileReaderTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/test/InputFileReaderTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="68">
+                  <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="SphereLogicTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/test/SphereLogicTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="323">
+                  <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="YZDissectionValueRatio.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/parameter/YZDissectionValueRatio.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="323">
+                  <caret line="26" column="41" lean-forward="false" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="SphereValue.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/parameter/SphereValue.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="289">
+                  <caret line="19" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="XYDissectionValueRatio.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/parameter/XYDissectionValueRatio.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="340">
+                  <caret line="26" column="41" lean-forward="false" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="XZDissectionValueRatio.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/parameter/XZDissectionValueRatio.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="323">
+                  <caret line="26" column="41" lean-forward="false" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -165,15 +301,31 @@
         <option value="$PROJECT_DIR$/src/by/epam/sphere/logic/SpherePositionTest.java" />
         <option value="$PROJECT_DIR$/src/by/epam/sphere/logic/SphereTest.java" />
         <option value="$PROJECT_DIR$/src/by/epam/sphere/action/CoordsDataReader.java" />
+        <option value="$PROJECT_DIR$/Kuhach.iml" />
         <option value="$PROJECT_DIR$/src/by/epam/sphere/data/Input.txt" />
-        <option value="$PROJECT_DIR$/src/log4j2.xml" />
-        <option value="$PROJECT_DIR$/src/by/epam/sphere/entity/Point.java" />
-        <option value="$PROJECT_DIR$/src/by/epam/sphere/parser/StringDataParser.java" />
+        <option value="$PROJECT_DIR$/src/by/epam/sphere/test/StringDataParserTest.java" />
+        <option value="$PROJECT_DIR$/src/by/epam/sphere/test/SphereLogicTest.java" />
+        <option value="$PROJECT_DIR$/src/by/epam/sphere/parameter/SurfaceArea.java" />
+        <option value="$PROJECT_DIR$/src/by/epam/sphere/observer/OperationObserver.java" />
         <option value="$PROJECT_DIR$/src/by/epam/sphere/test/SphereTest.java" />
-        <option value="$PROJECT_DIR$/src/by/epam/sphere/logic/SphereLogic.java" />
-        <option value="$PROJECT_DIR$/src/by/epam/sphere/entity/Sphere.java" />
+        <option value="$PROJECT_DIR$/src/by/epam/sphere/test/SphereSurfaceAreaTest.java" />
+        <option value="$PROJECT_DIR$/src/by/epam/sphere/test/SphereValueTest.java" />
+        <option value="$PROJECT_DIR$/src/by/epam/sphere/test/XZDissectionValueRatioTest.java" />
+        <option value="$PROJECT_DIR$/src/by/epam/sphere/test/XYDissectionValueRatioTest.java" />
+        <option value="$PROJECT_DIR$/src/by/epam/sphere/test/YZDissectionValueRatioTest.java" />
+        <option value="$PROJECT_DIR$/log4j2.xml" />
+        <option value="$PROJECT_DIR$/src/log4j2.xml" />
         <option value="$PROJECT_DIR$/src/by/epam/sphere/action/InputFileDataReader.java" />
+        <option value="$PROJECT_DIR$/src/by/epam/sphere/entity/Point.java" />
+        <option value="$PROJECT_DIR$/src/by/epam/sphere/entity/Sphere.java" />
         <option value="$PROJECT_DIR$/src/by/epam/sphere/exception/WrongDataPathException.java" />
+        <option value="$PROJECT_DIR$/src/by/epam/sphere/parameter/SphereSurfaceArea.java" />
+        <option value="$PROJECT_DIR$/src/by/epam/sphere/parameter/SphereValue.java" />
+        <option value="$PROJECT_DIR$/src/by/epam/sphere/parameter/XYDissectionValueRatio.java" />
+        <option value="$PROJECT_DIR$/src/by/epam/sphere/parameter/XZDissectionValueRatio.java" />
+        <option value="$PROJECT_DIR$/src/by/epam/sphere/parameter/YZDissectionValueRatio.java" />
+        <option value="$PROJECT_DIR$/src/by/epam/sphere/parser/StringDataParser.java" />
+        <option value="$PROJECT_DIR$/src/by/epam/sphere/logic/SphereLogic.java" />
         <option value="$PROJECT_DIR$/src/by/epam/sphere/test/InputFileReaderTest.java" />
       </list>
     </option>
@@ -189,11 +341,11 @@
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages PackagesPane="false" />
-      <showMembers PackagesPane="true" />
+      <flattenPackages PackagesPane="false" ProjectPane="false" />
+      <showMembers PackagesPane="true" ProjectPane="false" />
       <showModules />
       <showLibraryContents />
-      <hideEmptyPackages Scope="false" />
+      <hideEmptyPackages Scope="false" ProjectPane="false" />
       <abbreviatePackageNames />
       <autoscrollToSource />
       <autoscrollFromSource />
@@ -202,38 +354,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Kuhach" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Kuhach" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Kuhach" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Kuhach" />
@@ -314,7 +437,97 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="storage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Kuhach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Kuhach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="by" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sphere" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="parser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Kuhach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Kuhach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="by" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sphere" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parameter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Kuhach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Kuhach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="by" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sphere" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="observer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -478,104 +691,71 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="library" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Kuhach" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Kuhach" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Kuhach" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Kuhach" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libraries" />
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Kuhach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Kuhach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Kuhach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Kuhach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="by" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sphere" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/library/log4j-core-2.5.jar!/" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="full.screen.before.presentation.mode" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Антон\IdeaProjects\Kuhach\src\" />
       <recent name="C:\Users\Антон\IdeaProjects\Kuhach" />
       <recent name="C:\Users\Антон\IdeaProjects\Kuhach\src\by\epam\sphere\entity\libs" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.InputFileReaderTest.testGetFileData_ReadFileData">
-    <configuration default="false" name="InputFileDataReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="by.epam.sphere.action.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="by.epam.sphere.action.InputFileDataReader" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Kuhach" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="StringDataParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="by.epam.sphere.parser.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="by.epam.sphere.parser.StringDataParser" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Kuhach" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="InputFileReaderTest.testGetFileData_FileHasProperCoordinates" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SphereSurfaceAreaTest">
+    <configuration default="false" name="InputFileReaderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="by.epam.sphere.test.*" />
@@ -587,8 +767,8 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="by.epam.sphere.test" />
       <option name="MAIN_CLASS_NAME" value="by.epam.sphere.test.InputFileReaderTest" />
-      <option name="METHOD_NAME" value="testGetFileData_FileHasProperCoordinates" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -601,7 +781,7 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="InputFileReaderTest.testGetFileData_FileDoesNotExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="SphereTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="by.epam.sphere.test.*" />
@@ -612,9 +792,9 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="by.epam.sphere.test" />
-      <option name="MAIN_CLASS_NAME" value="by.epam.sphere.test.InputFileReaderTest" />
-      <option name="METHOD_NAME" value="testGetFileData_FileDoesNotExist" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="by.epam.sphere.test.SphereTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -627,7 +807,7 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="InputFileReaderTest.testGetFileData_ReadFileData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="SphereValueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="by.epam.sphere.test.*" />
@@ -638,9 +818,61 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="by.epam.sphere.test" />
-      <option name="MAIN_CLASS_NAME" value="by.epam.sphere.test.InputFileReaderTest" />
-      <option name="METHOD_NAME" value="testGetFileData_ReadFileData" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="by.epam.sphere.test.SphereValueTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="SphereLogicTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="by.epam.sphere.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Kuhach" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="by.epam.sphere.test" />
+      <option name="MAIN_CLASS_NAME" value="by.epam.sphere.test.SphereLogicTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="SphereSurfaceAreaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="by.epam.sphere.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Kuhach" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="by.epam.sphere.test" />
+      <option name="MAIN_CLASS_NAME" value="by.epam.sphere.test.SphereSurfaceAreaTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -857,20 +1089,48 @@
       <listeners />
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.InputFileDataReader" />
-      <item index="1" class="java.lang.String" itemvalue="Application.StringDataParser" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.InputFileReaderTest.testGetFileData_FileHasProperCoordinates" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.InputFileReaderTest.testGetFileData_FileDoesNotExist" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.InputFileReaderTest.testGetFileData_ReadFileData" />
+    <configuration default="false" name="hamcrest-core-1.3.jar" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="JAR_PATH" value="$PROJECT_DIR$/library/hamcrest-core-1.3.jar" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="junit-4.12.jar" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="JAR_PATH" value="$PROJECT_DIR$/library/junit-4.12.jar" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="log4j-api-2.5.jar" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="JAR_PATH" value="$PROJECT_DIR$/library/log4j-api-2.5.jar" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="log4j-core-2.5.jar" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="JAR_PATH" value="$PROJECT_DIR$/library/log4j-core-2.5.jar" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="9">
+      <item index="0" class="java.lang.String" itemvalue="JAR Application.hamcrest-core-1.3.jar" />
+      <item index="1" class="java.lang.String" itemvalue="JAR Application.junit-4.12.jar" />
+      <item index="2" class="java.lang.String" itemvalue="JAR Application.log4j-api-2.5.jar" />
+      <item index="3" class="java.lang.String" itemvalue="JAR Application.log4j-core-2.5.jar" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.InputFileReaderTest" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.SphereTest" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.SphereValueTest" />
+      <item index="7" class="java.lang.String" itemvalue="JUnit.SphereLogicTest" />
+      <item index="8" class="java.lang.String" itemvalue="JUnit.SphereSurfaceAreaTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.InputFileReaderTest.testGetFileData_ReadFileData" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.InputFileReaderTest.testGetFileData_FileDoesNotExist" />
-        <item index="2" class="java.lang.String" itemvalue="Application.InputFileDataReader" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.InputFileReaderTest.testGetFileData_FileHasProperCoordinates" />
-        <item index="4" class="java.lang.String" itemvalue="Application.StringDataParser" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.SphereSurfaceAreaTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.SphereLogicTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.SphereValueTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.SphereTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.InputFileReaderTest" />
       </list>
     </recent_temporary>
   </component>
@@ -888,71 +1148,99 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="InputFileReaderTest_testGetFileData_FileDoesNotExist - 2017.02.28 at 14h 30m 30s.xml">
-      <configuration name="InputFileReaderTest.testGetFileData_FileDoesNotExist" configurationId="JUnit" />
+    <history-entry file="InputFileReaderTest - 2017.03.01 at 08h 20m 57s.xml">
+      <configuration name="InputFileReaderTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InputFileReaderTest_testGetFileData_FileDoesNotExist - 2017.02.28 at 14h 55m 05s.xml">
-      <configuration name="InputFileReaderTest.testGetFileData_FileDoesNotExist" configurationId="JUnit" />
+    <history-entry file="InputFileReaderTest_testGetFileData_DefaultFileDoesExist - 2017.03.01 at 07h 53m 10s.xml">
+      <configuration name="InputFileReaderTest.testGetFileData_DefaultFileDoesExist" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InputFileReaderTest_testGetFileData_FileDoesNotExist - 2017.02.28 at 14h 55m 43s.xml">
-      <configuration name="InputFileReaderTest.testGetFileData_FileDoesNotExist" configurationId="JUnit" />
+    <history-entry file="SphereLogicTest - 2017.03.01 at 08h 22m 23s.xml">
+      <configuration name="SphereLogicTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InputFileReaderTest_testGetFileData_FileDoesNotExist - 2017.02.28 at 14h 56m 47s.xml">
-      <configuration name="InputFileReaderTest.testGetFileData_FileDoesNotExist" configurationId="JUnit" />
+    <history-entry file="SphereSurfaceAreaTest - 2017.03.01 at 08h 22m 44s.xml">
+      <configuration name="SphereSurfaceAreaTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InputFileReaderTest_testGetFileData_FileHasProperCoordinates - 2017.02.28 at 14h 10m 35s.xml">
-      <configuration name="InputFileReaderTest.testGetFileData_FileHasProperCoordinates" configurationId="JUnit" />
+    <history-entry file="SphereSurfaceAreaTest_valueChangedTest - 2017.03.01 at 06h 26m 14s.xml">
+      <configuration name="SphereSurfaceAreaTest.valueChangedTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InputFileReaderTest_testGetFileData_FileHasProperCoordinates - 2017.02.28 at 14h 12m 04s.xml">
-      <configuration name="InputFileReaderTest.testGetFileData_FileHasProperCoordinates" configurationId="JUnit" />
+    <history-entry file="SphereTest - 2017.03.01 at 08h 21m 35s.xml">
+      <configuration name="SphereTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InputFileReaderTest_testGetFileData_FileHasProperCoordinates - 2017.02.28 at 14h 12m 40s.xml">
-      <configuration name="InputFileReaderTest.testGetFileData_FileHasProperCoordinates" configurationId="JUnit" />
+    <history-entry file="SphereValueTest - 2017.03.01 at 08h 21m 53s.xml">
+      <configuration name="SphereValueTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InputFileReaderTest_testGetFileData_FileHasProperCoordinates - 2017.02.28 at 14h 12m 57s.xml">
-      <configuration name="InputFileReaderTest.testGetFileData_FileHasProperCoordinates" configurationId="JUnit" />
+    <history-entry file="SphereValueTest_valueChangedTest - 2017.03.01 at 06h 31m 48s.xml">
+      <configuration name="SphereValueTest.valueChangedTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InputFileReaderTest_testGetFileData_ReadFileData - 2017.02.28 at 16h 13m 32s.xml">
-      <configuration name="InputFileReaderTest.testGetFileData_ReadFileData" configurationId="JUnit" />
+    <history-entry file="XYDissectionValueRatioTest_valueChangedTest - 2017.03.01 at 06h 35m 57s.xml">
+      <configuration name="XYDissectionValueRatioTest.valueChangedTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InputFileReaderTest_testGetFileData_ReadFileData - 2017.02.28 at 16h 19m 50s.xml">
-      <configuration name="InputFileReaderTest.testGetFileData_ReadFileData" configurationId="JUnit" />
+    <history-entry file="XZDissectionValueRatioTest_valueChangedTest - 2017.03.01 at 06h 37m 24s.xml">
+      <configuration name="XZDissectionValueRatioTest.valueChangedTest" configurationId="JUnit" />
     </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.48081023" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5063966" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.4936034" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3651386" sideWeight="0.47587353" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3651386" sideWeight="0.52412647" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09541578" sideWeight="0.45257902" order="3" side_tool="false" content_ui="combo" x="610" y="71" width="688" height="897" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38379532" sideWeight="0.547421" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32239583" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3576759" sideWeight="0.5083612" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.4978678" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36909872" sideWeight="0.54180604" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.4978678" order="0" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -961,265 +1249,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/entity/Point.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="e#268#269#0" expanded="false" />
-            <element signature="e#294#295#0" expanded="false" />
-            <element signature="e#328#329#0" expanded="false" />
-            <element signature="e#354#355#0" expanded="false" />
-            <element signature="e#388#389#0" expanded="false" />
-            <element signature="e#414#415#0" expanded="false" />
-            <element signature="e#442#443#0" expanded="false" />
-            <element signature="e#466#467#0" expanded="false" />
-            <element signature="e#494#495#0" expanded="false" />
-            <element signature="e#518#519#0" expanded="false" />
-            <element signature="e#546#547#0" expanded="false" />
-            <element signature="e#570#571#0" expanded="false" />
-            <element signature="e#770#771#0" expanded="false" />
-            <element signature="e#814#815#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/data/Input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/entity/Sphere.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="32" column="40" lean-forward="false" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
-          <folding>
-            <element signature="e#221#222#0" expanded="false" />
-            <element signature="e#259#260#0" expanded="false" />
-            <element signature="e#306#307#0" expanded="false" />
-            <element signature="e#346#347#0" expanded="false" />
-            <element signature="e#379#380#0" expanded="false" />
-            <element signature="e#409#410#0" expanded="false" />
-            <element signature="e#443#444#0" expanded="false" />
-            <element signature="e#474#475#0" expanded="false" />
-            <element signature="e#840#841#0" expanded="false" />
-            <element signature="e#901#902#0" expanded="false" />
-            <element signature="e#934#935#0" expanded="false" />
-            <element signature="e#1001#1002#0" expanded="false" />
-            <element signature="e#2637#2638#0" expanded="false" />
-            <element signature="e#2671#2672#0" expanded="false" />
-            <element signature="e#2717#2718#0" expanded="false" />
-            <element signature="e#2787#2788#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/action/InputFileDataReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/test/SphereTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/test/InputFileReaderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/Kuhach/by/epam/sphere/test/SphereTest.class" />
-    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/parser/StringDataParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/entity/Point.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="40" column="52" lean-forward="false" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
-          <folding>
-            <element signature="e#268#269#0" expanded="false" />
-            <element signature="e#294#295#0" expanded="false" />
-            <element signature="e#328#329#0" expanded="false" />
-            <element signature="e#354#355#0" expanded="false" />
-            <element signature="e#388#389#0" expanded="false" />
-            <element signature="e#414#415#0" expanded="false" />
-            <element signature="e#442#443#0" expanded="false" />
-            <element signature="e#466#467#0" expanded="false" />
-            <element signature="e#494#495#0" expanded="false" />
-            <element signature="e#518#519#0" expanded="false" />
-            <element signature="e#546#547#0" expanded="false" />
-            <element signature="e#570#571#0" expanded="false" />
-            <element signature="e#770#771#0" expanded="false" />
-            <element signature="e#814#815#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/data/Input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/entity/Sphere.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#221#222#0" expanded="false" />
-            <element signature="e#259#260#0" expanded="false" />
-            <element signature="e#306#307#0" expanded="false" />
-            <element signature="e#346#347#0" expanded="false" />
-            <element signature="e#379#380#0" expanded="false" />
-            <element signature="e#409#410#0" expanded="false" />
-            <element signature="e#443#444#0" expanded="false" />
-            <element signature="e#474#475#0" expanded="false" />
-            <element signature="e#840#841#0" expanded="false" />
-            <element signature="e#901#902#0" expanded="false" />
-            <element signature="e#934#935#0" expanded="false" />
-            <element signature="e#1001#1002#0" expanded="false" />
-            <element signature="e#2637#2638#0" expanded="false" />
-            <element signature="e#2671#2672#0" expanded="false" />
-            <element signature="e#2717#2718#0" expanded="false" />
-            <element signature="e#2787#2788#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/action/InputFileDataReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/parser/StringDataParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/entity/Point.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="40" column="52" lean-forward="false" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
-          <folding>
-            <element signature="e#268#269#0" expanded="false" />
-            <element signature="e#294#295#0" expanded="false" />
-            <element signature="e#328#329#0" expanded="false" />
-            <element signature="e#354#355#0" expanded="false" />
-            <element signature="e#388#389#0" expanded="false" />
-            <element signature="e#414#415#0" expanded="false" />
-            <element signature="e#442#443#0" expanded="false" />
-            <element signature="e#466#467#0" expanded="false" />
-            <element signature="e#494#495#0" expanded="false" />
-            <element signature="e#518#519#0" expanded="false" />
-            <element signature="e#546#547#0" expanded="false" />
-            <element signature="e#570#571#0" expanded="false" />
-            <element signature="e#770#771#0" expanded="false" />
-            <element signature="e#814#815#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/data/Input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/entity/Sphere.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#221#222#0" expanded="false" />
-            <element signature="e#259#260#0" expanded="false" />
-            <element signature="e#306#307#0" expanded="false" />
-            <element signature="e#346#347#0" expanded="false" />
-            <element signature="e#379#380#0" expanded="false" />
-            <element signature="e#409#410#0" expanded="false" />
-            <element signature="e#443#444#0" expanded="false" />
-            <element signature="e#474#475#0" expanded="false" />
-            <element signature="e#840#841#0" expanded="false" />
-            <element signature="e#901#902#0" expanded="false" />
-            <element signature="e#934#935#0" expanded="false" />
-            <element signature="e#1001#1002#0" expanded="false" />
-            <element signature="e#2637#2638#0" expanded="false" />
-            <element signature="e#2671#2672#0" expanded="false" />
-            <element signature="e#2717#2718#0" expanded="false" />
-            <element signature="e#2787#2788#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/action/InputFileDataReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/entity/Point.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="40" column="52" lean-forward="false" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
-          <folding>
-            <element signature="e#268#269#0" expanded="false" />
-            <element signature="e#294#295#0" expanded="false" />
-            <element signature="e#328#329#0" expanded="false" />
-            <element signature="e#354#355#0" expanded="false" />
-            <element signature="e#388#389#0" expanded="false" />
-            <element signature="e#414#415#0" expanded="false" />
-            <element signature="e#442#443#0" expanded="false" />
-            <element signature="e#466#467#0" expanded="false" />
-            <element signature="e#494#495#0" expanded="false" />
-            <element signature="e#518#519#0" expanded="false" />
-            <element signature="e#546#547#0" expanded="false" />
-            <element signature="e#570#571#0" expanded="false" />
-            <element signature="e#770#771#0" expanded="false" />
-            <element signature="e#814#815#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/data/Input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1231,24 +1260,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#221#222#0" expanded="false" />
-            <element signature="e#259#260#0" expanded="false" />
-            <element signature="e#306#307#0" expanded="false" />
-            <element signature="e#346#347#0" expanded="false" />
-            <element signature="e#379#380#0" expanded="false" />
-            <element signature="e#409#410#0" expanded="false" />
-            <element signature="e#443#444#0" expanded="false" />
-            <element signature="e#474#475#0" expanded="false" />
-            <element signature="e#840#841#0" expanded="false" />
-            <element signature="e#901#902#0" expanded="false" />
-            <element signature="e#934#935#0" expanded="false" />
-            <element signature="e#1001#1002#0" expanded="false" />
-            <element signature="e#2637#2638#0" expanded="false" />
-            <element signature="e#2671#2672#0" expanded="false" />
-            <element signature="e#2717#2718#0" expanded="false" />
-            <element signature="e#2787#2788#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1256,9 +1267,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1266,22 +1274,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="40" column="52" lean-forward="false" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
-          <folding>
-            <element signature="e#268#269#0" expanded="false" />
-            <element signature="e#294#295#0" expanded="false" />
-            <element signature="e#328#329#0" expanded="false" />
-            <element signature="e#354#355#0" expanded="false" />
-            <element signature="e#388#389#0" expanded="false" />
-            <element signature="e#414#415#0" expanded="false" />
-            <element signature="e#442#443#0" expanded="false" />
-            <element signature="e#466#467#0" expanded="false" />
-            <element signature="e#494#495#0" expanded="false" />
-            <element signature="e#518#519#0" expanded="false" />
-            <element signature="e#546#547#0" expanded="false" />
-            <element signature="e#570#571#0" expanded="false" />
-            <element signature="e#770#771#0" expanded="false" />
-            <element signature="e#814#815#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1296,24 +1288,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#221#222#0" expanded="false" />
-            <element signature="e#259#260#0" expanded="false" />
-            <element signature="e#306#307#0" expanded="false" />
-            <element signature="e#346#347#0" expanded="false" />
-            <element signature="e#379#380#0" expanded="false" />
-            <element signature="e#409#410#0" expanded="false" />
-            <element signature="e#443#444#0" expanded="false" />
-            <element signature="e#474#475#0" expanded="false" />
-            <element signature="e#840#841#0" expanded="false" />
-            <element signature="e#901#902#0" expanded="false" />
-            <element signature="e#934#935#0" expanded="false" />
-            <element signature="e#1001#1002#0" expanded="false" />
-            <element signature="e#2637#2638#0" expanded="false" />
-            <element signature="e#2671#2672#0" expanded="false" />
-            <element signature="e#2717#2718#0" expanded="false" />
-            <element signature="e#2787#2788#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1321,22 +1295,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="36" column="52" lean-forward="false" selection-start-line="36" selection-start-column="52" selection-end-line="36" selection-end-column="52" />
-          <folding>
-            <element signature="e#268#269#0" expanded="false" />
-            <element signature="e#294#295#0" expanded="false" />
-            <element signature="e#328#329#0" expanded="false" />
-            <element signature="e#354#355#0" expanded="false" />
-            <element signature="e#388#389#0" expanded="false" />
-            <element signature="e#414#415#0" expanded="false" />
-            <element signature="e#442#443#0" expanded="false" />
-            <element signature="e#466#467#0" expanded="false" />
-            <element signature="e#494#495#0" expanded="false" />
-            <element signature="e#518#519#0" expanded="false" />
-            <element signature="e#546#547#0" expanded="false" />
-            <element signature="e#570#571#0" expanded="false" />
-            <element signature="e#770#771#0" expanded="false" />
-            <element signature="e#814#815#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1352,24 +1310,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#221#222#0" expanded="false" />
-            <element signature="e#259#260#0" expanded="false" />
-            <element signature="e#306#307#0" expanded="false" />
-            <element signature="e#346#347#0" expanded="false" />
-            <element signature="e#379#380#0" expanded="false" />
-            <element signature="e#409#410#0" expanded="false" />
-            <element signature="e#443#444#0" expanded="false" />
-            <element signature="e#474#475#0" expanded="false" />
-            <element signature="e#840#841#0" expanded="false" />
-            <element signature="e#901#902#0" expanded="false" />
-            <element signature="e#934#935#0" expanded="false" />
-            <element signature="e#1001#1002#0" expanded="false" />
-            <element signature="e#2637#2638#0" expanded="false" />
-            <element signature="e#2671#2672#0" expanded="false" />
-            <element signature="e#2717#2718#0" expanded="false" />
-            <element signature="e#2787#2788#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1377,22 +1317,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding>
-            <element signature="e#268#269#0" expanded="false" />
-            <element signature="e#294#295#0" expanded="false" />
-            <element signature="e#328#329#0" expanded="false" />
-            <element signature="e#354#355#0" expanded="false" />
-            <element signature="e#388#389#0" expanded="false" />
-            <element signature="e#414#415#0" expanded="false" />
-            <element signature="e#442#443#0" expanded="false" />
-            <element signature="e#466#467#0" expanded="false" />
-            <element signature="e#494#495#0" expanded="false" />
-            <element signature="e#518#519#0" expanded="false" />
-            <element signature="e#546#547#0" expanded="false" />
-            <element signature="e#570#571#0" expanded="false" />
-            <element signature="e#770#771#0" expanded="false" />
-            <element signature="e#814#815#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1401,24 +1325,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#221#222#0" expanded="false" />
-            <element signature="e#259#260#0" expanded="false" />
-            <element signature="e#306#307#0" expanded="false" />
-            <element signature="e#346#347#0" expanded="false" />
-            <element signature="e#379#380#0" expanded="false" />
-            <element signature="e#409#410#0" expanded="false" />
-            <element signature="e#443#444#0" expanded="false" />
-            <element signature="e#474#475#0" expanded="false" />
-            <element signature="e#840#841#0" expanded="false" />
-            <element signature="e#901#902#0" expanded="false" />
-            <element signature="e#934#935#0" expanded="false" />
-            <element signature="e#1001#1002#0" expanded="false" />
-            <element signature="e#2637#2638#0" expanded="false" />
-            <element signature="e#2671#2672#0" expanded="false" />
-            <element signature="e#2717#2718#0" expanded="false" />
-            <element signature="e#2787#2788#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1440,31 +1346,47 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/out/production/Kuhach/by/epam/sphere/test/SphereTest.class" />
-    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/data/Input.txt">
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" />
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/library.xml" />
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/log4j_api_2_5.xml" />
+    <entry file="file://$PROJECT_DIR$/src/log4j2.xml" />
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.project">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kuhach.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/log4j2.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        <state relative-caret-position="17">
+          <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/parser/StringDataParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/storage/log.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1472,14 +1394,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" />
-    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/test/SphereTest.java">
+    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/action/InputFileDataReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="13" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/data/Input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1487,82 +1416,88 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="e#268#269#0" expanded="false" />
-            <element signature="e#294#295#0" expanded="false" />
-            <element signature="e#328#329#0" expanded="false" />
-            <element signature="e#354#355#0" expanded="false" />
-            <element signature="e#388#389#0" expanded="false" />
-            <element signature="e#414#415#0" expanded="false" />
-            <element signature="e#442#443#0" expanded="false" />
-            <element signature="e#466#467#0" expanded="false" />
-            <element signature="e#494#495#0" expanded="false" />
-            <element signature="e#518#519#0" expanded="false" />
-            <element signature="e#546#547#0" expanded="false" />
-            <element signature="e#570#571#0" expanded="false" />
-            <element signature="e#770#771#0" expanded="false" />
-            <element signature="e#814#815#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/entity/Sphere.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="49" column="9" lean-forward="false" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+        <state relative-caret-position="714">
+          <caret line="50" column="4" lean-forward="false" selection-start-line="49" selection-start-column="8" selection-end-line="50" selection-end-column="4" />
           <folding>
-            <element signature="e#221#222#0" expanded="false" />
-            <element signature="e#259#260#0" expanded="false" />
-            <element signature="e#306#307#0" expanded="false" />
-            <element signature="e#346#347#0" expanded="false" />
-            <element signature="e#379#380#0" expanded="false" />
-            <element signature="e#409#410#0" expanded="false" />
-            <element signature="e#443#444#0" expanded="false" />
-            <element signature="e#474#475#0" expanded="false" />
-            <element signature="e#840#841#0" expanded="false" />
-            <element signature="e#901#902#0" expanded="false" />
-            <element signature="e#934#935#0" expanded="false" />
-            <element signature="e#1001#1002#0" expanded="false" />
-            <element signature="e#2637#2638#0" expanded="false" />
-            <element signature="e#2671#2672#0" expanded="false" />
-            <element signature="e#2717#2718#0" expanded="false" />
-            <element signature="e#2787#2788#0" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/libraries/library.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/libraries/log4j_api_2_5.xml" />
-    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/logic/SphereLogic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/exception/WrongDataPathException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="44" lean-forward="false" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        <state relative-caret-position="85">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/logic/SphereLogic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/observer/OperationObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/parameter/SphereValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
           <folding>
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/action/InputFileDataReader.java">
+    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/parameter/XYDissectionValueRatio.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="68" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="68" />
+        <state relative-caret-position="340">
+          <caret line="26" column="41" lean-forward="false" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/parameter/XZDissectionValueRatio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="26" column="41" lean-forward="false" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/parameter/YZDissectionValueRatio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="26" column="41" lean-forward="false" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/parser/StringDataParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="50" lean-forward="false" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1571,8 +1506,96 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/test/InputFileReaderTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="22" lean-forward="false" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/test/SphereLogicTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/test/SphereSurfaceAreaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/parameter/SphereSurfaceArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/test/SphereTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/test/SphereValueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/test/StringDataParserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/test/XYDissectionValueRatioTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/test/XZDissectionValueRatioTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="23" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/epam/sphere/test/YZDissectionValueRatioTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="21" column="27" lean-forward="false" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1644,7 +1667,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>log4j-core-2.5</last-edited>
+          <last-edited>lib</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

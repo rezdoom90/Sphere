@@ -1,13 +1,32 @@
 package by.epam.sphere.entity;
 
-import by.epam.sphere.logic.SphereLogic;
+import by.epam.sphere.observer.OperationObserver;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
+import java.util.ArrayList;
+import java.util.Iterator;
+
+import static org.apache.logging.log4j.Level.INFO;
 
 public class Sphere {
-	private Point centerP;
+    static Logger logger = LogManager.getLogger();
+    private Point centerP;
     private Point surfaceP;
+    private ArrayList<OperationObserver> observerList = new ArrayList<>();
 
     public Sphere() {
 
+    }
+
+    public Sphere(Point centerP, Point surfaceP) {
+        this.centerP = centerP;
+        this.surfaceP = surfaceP;
+    }
+
+    public Sphere(ArrayList<Double> coordinates) {
+        this.setCenterP(new Point(coordinates.get(0), coordinates.get(1), coordinates.get(2)));
+        this.setSurfaceP(new Point(coordinates.get(3), coordinates.get(4), coordinates.get(5)));
     }
 
     public void setCenterP(Point centerP) {
@@ -26,6 +45,19 @@ public class Sphere {
         return surfaceP;
     }
 
+    public void addObserver(OperationObserver observer) {
+        observerList.add(observer);
+        logger.log(INFO, "Observer has been created successfully.");
+    }
+
+    private void notifyObservers() {
+        Iterator it = observerList.iterator();
+        while (it.hasNext()) {
+            ((OperationObserver) it.next()).valueChanged(this);
+        }
+        logger.log(INFO, "Values changed. Observers notified.");
+    }
+
     public double getRadius () {
         double radius;
 
@@ -33,51 +65,9 @@ public class Sphere {
                 + Math.pow((this.surfaceP.getY() - this.centerP.getY()), 2)
                 + Math.pow((this.surfaceP.getZ() - this.centerP.getZ()), 2));
 
+        logger.log(INFO, "Received sphere radius of " + radius);
+
         return radius;
-    }
-
-    public double getSurfaceArea () {
-        return 4 * Math.PI * Math.pow(getRadius(), 2);
-    }
-
-    public double getValue () {
-        return (4 / 3) * Math.PI * Math.pow(getRadius(), 3);
-    }
-
-    public double getXYDissectionValueRatio () {
-        if (this.getCenterP().getZ() < this.getSurfaceP().getZ()) {
-            return (Math.PI * Math.pow(this.getSurfaceP().getZ(), 2)
-                    * (this.getRadius() - this.getSurfaceP().getZ() / 3))
-                    / this.getValue();
-        } else {
-            return (Math.PI * Math.pow(this.getCenterP().getZ(), 2)
-                    * (this.getRadius() - this.getCenterP().getZ() / 3))
-                    / this.getValue();
-        }
-    }
-
-    public double getXZDissectionValueRatio () {
-        if (this.getCenterP().getY() < this.getSurfaceP().getY()) {
-            return (Math.PI * Math.pow(this.getSurfaceP().getY(), 2)
-                    * (this.getRadius() - this.getSurfaceP().getY() / 3))
-                    / this.getValue();
-        } else {
-            return (Math.PI * Math.pow(this.getCenterP().getY(), 2)
-                    * (this.getRadius() - this.getCenterP().getY() / 3))
-                    / this.getValue();
-        }
-    }
-
-    public double getYZDissectionValueRatio () {
-        if (this.getCenterP().getX() < this.getSurfaceP().getX()) {
-            return (Math.PI * Math.pow(this.getSurfaceP().getX(), 2)
-                    * (this.getRadius() - this.getSurfaceP().getX() / 3))
-                    / this.getValue();
-        } else {
-            return (Math.PI * Math.pow(this.getCenterP().getX(), 2)
-                    * (this.getRadius() - this.getCenterP().getX() / 3))
-                    / this.getValue();
-        }
     }
 
     private static Sphere ourInstance = new Sphere();
@@ -88,6 +78,12 @@ public class Sphere {
 
     @Override
     public String toString() {
-        return "Sphere has surface area of " + this.getSurfaceArea() + ", value of " + this.getValue();
+        String s = "";
+        Iterator it = observerList.iterator();
+        while (it.hasNext()) {
+            s = s +
+                    ((OperationObserver) it.next()).toString() + '\n';
+        }
+        return s;
     }
 }
